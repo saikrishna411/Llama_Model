@@ -4,7 +4,7 @@ setup(
     name = 'AI Repo',
     version= '0.0.0',
     author= 'saikrishna',
-    author_email= 'boktiar@ineuron.ai',
+    author_email= '',
     packages= find_packages(),
     install_requires = []
 
